@@ -3,7 +3,7 @@
 
 Urip iku terus mlaku, bebarengan karo wektu, sing bisa gawa lakumu, supaya apik nasibmu
 
-![Slamet Aji github stats](https://github-readme-stats.vercel.app/api?username=slametaji-ui)
+<!-- ![Slamet Aji github stats](https://github-readme-stats.vercel.app/api?username=slametaji-ui) -->
 
 ## 😎 Monggo mampir urip ayem nek seduluran
 [![portfolio](https://img.shields.io/badge/my_portfolio-353353?style=for-the-badge&logo=ko-fi&logoColor=white)](https://slametaji.info/)
