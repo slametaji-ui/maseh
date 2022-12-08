@@ -17,7 +17,7 @@ Urip iku terus mlaku, bebarengan karo wektu, sing bisa gawa lakumu, supaya apik 
 [![Composer](https://img.shields.io/badge/Composer-%23FFF?style=flat-square&logoColor=%23222&logo=composer)](https://getcomposer.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=flat-square&logoColor=%23FFF&logo=mysql)](https://www.mysql.com/)
 [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23dd4814?style=flat-square&logoColor=%23FFF&logo=codeigniter)](https://codeigniter.com/)
-[![Laravel](https://img.shields.io/badge/Laravel-%#ff3300?style=flat-square&logoColor=%23FFF&logo=laravel)](https://laravel.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-%ff3300?style=flat-square&logoColor=%23FFF&logo=laravel)](https://laravel.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f?style=flat-square&logoColor=%23333&logo=javascript)](https://www.javascript.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59?&style=flat-square&logoColor=%23FFF&logo=express)](https://expressjs.com/)
 [![Yarn](https://img.shields.io/badge/Yarn-%23FFFFFF?style=flat-square&logoColor=%232188b6&logo=yarn)](https://yarnpkg.com/)
