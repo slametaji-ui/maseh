@@ -6,7 +6,7 @@ Urip iku terus mlaku, bebarengan karo wektu, sing bisa gawa lakumu, supaya apik 
 <!-- ![Slamet Aji github stats](https://github-readme-stats.vercel.app/api?username=slametaji-ui) -->
 
 ## 😎 Monggo mampir urip ayem nek seduluran
-[![portfolio](https://img.shields.io/badge/my_portfolio-353353?style=for-the-badge&logo=ko-fi&logoColor=white)](https://slametaji.info/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-353353?style=for-the-badge&logo=ko-fi&logoColor=white)](https://slametaji-ui.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aji-slametaji/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aji_site)
 [![instagram](https://img.shields.io/badge/instagram-ff3041?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.aji_site)
