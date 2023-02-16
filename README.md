@@ -9,7 +9,7 @@ Urip iku terus mlaku, bebarengan karo wektu, sing bisa gawa lakumu, supaya apik 
 [![portfolio](https://img.shields.io/badge/my_portfolio-353353?style=for-the-badge&logo=ko-fi&logoColor=white)](https://slametaji-ui.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aji-slametaji/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aji_site)
-[![instagram](https://img.shields.io/badge/instagram-ff3041?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.aji_site)
+[![instagram](https://img.shields.io/badge/instagram-ff3041?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.aji_inst)
 
 #### 🐱‍🏍 Teknologi:
 [![Git](https://img.shields.io/badge/Git-%23f34f29?style=flat-square&logoColor=%23FFF&logo=git)](https://git-scm.com/)
